@@ -1,0 +1,46 @@
+.container {
+  border: 15px solid grey;
+  border-width: 20px;
+  bordet-height: 20px;
+  border-radius: 25px;
+  background-image: url(birds1.jpg);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h3 {
+  text-shadow: 2px 2px #9966ff;
+}
+
+img {
+  border: 5px solid silver;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+div {
+  width: 320px;
+  border: 1px solid grey;
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+p {
+  border-width: 1px;
+  border-height: 40px;
+}
+
+ul {
+  list-style: none;
+  border: 1px;
+  text-decoration: underline;
+  padding-left: 0px;
+}
+
+span {
+  font-weight: bold;
+}
